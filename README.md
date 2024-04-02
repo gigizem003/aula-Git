@@ -1,2 +1,4 @@
 # aula-Git
-Repositório para testar git hub
+Repositorio para testar git hub
+
+Testando a interacao entre Git e GitHub
